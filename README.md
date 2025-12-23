@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 - 🤖 B.Tech student specializing in **Artificial Intelligence & Data Science**  
-- 🐍 Skilled in **Python**, **SQL**, and basic app development  
+- 🐍 Skilled in **Python**, **SQL**.
 - 🔎 Interested in **AI, Cloud Computing, Data Engineering, Automation, and Future Technologies**  
 - 📚 Always learning, building small projects, and improving problem-solving  
 - 💡 I love turning ideas into simple and efficient solutions  

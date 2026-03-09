@@ -1,49 +1,95 @@
-<h1 align="center">👋 Hello, I'm Sreesanth!</h1>
+# Hi 👋, I'm Sreesanth
 
 <p align="center">
-  <b>B.Tech AI & Data Science | Python & SQL Developer | Exploring Future Tech</b>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Data%20Science%20Student;Machine%20Learning%20Enthusiast;Python%20Developer;Building%20Data%20Driven%20Projects&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🤖 B.Tech student specializing in **Artificial Intelligence & Data Science**  
-- 🐍 Skilled in **Python**, **SQL**.
-- 🔎 Interested in **AI, Cloud Computing, Data Engineering, Automation, and Future Technologies**  
-- 📚 Always learning, building small projects, and improving problem-solving  
-- 💡 I love turning ideas into simple and efficient solutions  
+## 🚀 About Me
+
+🎓 AI & Data Science Undergraduate
+🤖 Passionate about **Web development and AI Applications**
+📊 Love exploring problems and building optimized solutions
+💡 Interested in solving real-world problems using AI
+🚀 Currently improving skills in **Java, Python, Web and Full-Stack Development**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack
 
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
+
+
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+
+### 💾 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visual-studio-code)
+
+
+
+---
+
+## 🔥 Project Highlights
+
+### Jarvis Lite
+
+**Coming soon..**
+
+###  Celista 2k26 Symposium Official website
+
+A modern tech symposium website designed with my college mates using **React**.
+
+### Internship Finder Web app
+
+A Full Stack Web app using **Flutter**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sreesanth-s02&show_icons=true&theme=tokyonight">
 </p>
 
-### **Tools & Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreesanth-s02&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreesanth-s02&layout=compact&theme=tokyonight">
 </p>
 
 ---
 
-## 🔗 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/sreesanth226"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sreesanth-s02"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:sreesanthn970@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [sreesanthn970@gmail.com](mailto:yourmail@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/sreesanth226
 
 
 ---
 
-### ⚡ Fun Fact  
-I’m excited about the future of AI and how technology evolves every day!
-
+⚡ **"Learn → Build → Improve → Repeat."**

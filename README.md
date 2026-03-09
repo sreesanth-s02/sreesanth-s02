@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
 ![Javascript](https://img.shields.io/badge/Javascript-green?style=for-the-badge\&logo=javascript)
-![C#](https://img.shields.io/badge/C#-purple?style=for-the-badge\&logo=c#)
+![C#](https://img.shields.io/badge/c#-purple?style=for-the-badge\&logo=c#)
 
 
 ### 🌐 Web Development
@@ -35,7 +35,7 @@
 ### 💾 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-yellow?style=for-the-badge\&logo=postgresql)
 
 ### 🧰 Tools
 

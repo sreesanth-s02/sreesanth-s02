@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sreesanth
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Data%20Science%20Student;AI%20Web Development%20Enthusiast;Building%20Optimized%20Project%20Solution&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%and%20Data%20Science%20Student;AI%20Web Development%20Enthusiast;Building%20Optimized%20Project%20Solution&center=true&width=500&height=50">
 </p>
 
 ---
@@ -22,8 +22,8 @@
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![Javascript](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=javascript)
-![C#](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=c#)
+![Javascript](https://img.shields.io/badge/Javascript-green?style=for-the-badge\&logo=javascript)
+![C#](https://img.shields.io/badge/C#-purple?style=for-the-badge\&logo=c#)
 
 
 ### 🌐 Web Development
@@ -35,14 +35,14 @@
 ### 💾 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
 
 ### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge\&logo=linux)
 
 
 

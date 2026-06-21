@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sreesanth
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Data%20Science%20Undergraduate;Exploring%20and%20Building%20Optimized%20Project%20Solutions&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Data%20Science%20Undergraduate;Exploring%20Life&center=true&width=500&height=50">
 </p>
 
 ---

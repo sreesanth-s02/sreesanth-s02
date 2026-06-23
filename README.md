@@ -9,7 +9,6 @@
 ##  About Me
 
  * **B.Tech** – Artificial Intelligence & Data Science Undergraduate
-* Enjoy exploring problems and building *efficient, optimized solutions*
 * Interested in applying technology to *real-world challenges*
 * Currently exploring and improving skills in *Java, Python and Full-Stack Technologies*
 

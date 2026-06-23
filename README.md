@@ -41,10 +41,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sreesanth-s02&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreesanth-s02&theme=tokyonight">
 </p>
 

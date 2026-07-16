@@ -10,7 +10,7 @@
 
  * **B.Tech** – Artificial Intelligence & Data Science Undergraduate
 * Interested in applying technology to *real-world challenges*
-* Currently exploring and improving skills in *Java, Python and Full-Stack Technologies*
+* Currently exploring and improving skills in *Java and Full-Stack Technologies 
 
 ---
 
